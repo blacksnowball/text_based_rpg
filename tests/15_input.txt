@@ -1,0 +1,9 @@
+SOUTH
+easT
+West
+W
+norTH
+sOUth
+s
+s
+quit

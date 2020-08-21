@@ -1,0 +1,137 @@
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    E
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the TARDIS.
+There is nothing in this room.
+
+>>> You move to the south, arriving at the Cookieland.
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Cookieland.
+There is nothing in this room.
+
+>>> You can't do that.
+
+>>> You move to the north, arriving at the TARDIS.
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    E
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the TARDIS.
+There is nothing in this room.
+
+>>> You move to the east, arriving at the Misty Mountains.
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    |
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Misty Mountains.
+There is nothing in this room.
+
+>>> You can't do that.
+
+>>> You move to the west, arriving at the TARDIS.
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    E
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the TARDIS.
+There is nothing in this room.
+
+>>> You move to the west, arriving at the Bastille.
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    E
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Bastille.
+There is nothing in this room.
+
+>>> You can't do that.
+
+>>> You move to the east, arriving at the TARDIS.
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    E
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the TARDIS.
+There is nothing in this room.
+
+>>> You move to the north, arriving at the Black Gates of Mordor.
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the Black Gates of Mordor.
+There is nothing in this room.
+
+>>> You can't do that.
+
+>>> 
+=== All quests complete! Congratulations! ===

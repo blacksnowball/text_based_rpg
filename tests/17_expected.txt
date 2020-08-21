@@ -1,0 +1,28 @@
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the King's Quarters.
+An eerie yet powerful-looking sword lies on the bed of the monarch. It seems to have been undisturbed by the passage of time.
+
+>>> #00: Choc-Chip Cookie     - SEIZE the cookie from the slumbering Cookie Monster.
+#01: The One Ring         - WEAR the prized ring of the Dark Lord, Sauron.
+#02: Psychotic Snowball   - EMBRACE a psychotic snowball to aid you in your adventure.
+#03: Louis XVI's Head     - STORM the Bastille and begin a revolution.
+#04: Shadow Blade         - GRASP the sword from the king's bed.
+#05: Gold Medallion       - SCRUB a rusty, dilapidated medallion until you see an inscribed message.
+#06: Eerie Armlet         - SNEAK to the end of the hallway to open the mysterious chest.
+#07: Singing Sword        - PULL the sword from the stone.
+#08: Shimmering Shield    - SHINE an old shield until it shimmers.
+#09: Trembling Tome       - CALM a trembling tome in the workshop.
+#10: Glistening Goblet    - STEAL a glistening goblet from a distracted denizen.
+
+>>> Bye!

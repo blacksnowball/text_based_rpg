@@ -1,0 +1,84 @@
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    E
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the TARDIS.
+There is nothing in this room.
+
+>>> You can't do that.
+
+>>> You move to the south, arriving at the Cookieland.
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Cookieland.
+The sky, floor, and walls are made of scrumptious cookies - everywhere you are surrounded by cookies. But in the centre of the room slumbers the Cookie Monster and in his right hand lies the universe's most delectable cookie, radiating brilliantly with an irresistible scent. You are swiftly enticed to consume the forbidden treat.
+
+>>> You can't do that.
+
+>>> You can't do that.
+
+>>> You can't do that.
+
+>>> You can't do that.
+
+>>> You move to the north, arriving at the TARDIS.
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    E
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the TARDIS.
+There is nothing in this room.
+
+>>> You can't do that.
+
+>>> You move to the east, arriving at the Misty Mountains.
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    |
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Misty Mountains.
+An enormous pack of ferocious wyverns are scattered all across the sides of the mountain range. They gaze intently in your direction thinking about you as their next meal. Your view of the landscape is blocked by their monstrous size but that should be the least of your concerns.
+
+>>> You can't do that.
+
+>>> You embrace the snowball and soon the ground becomes to rumble and shake uncontrollably. From the peak of the mountains, a series of avalanches are unleashed, travelling with great speed and power before crushing the wyverns mercilessly. They unleash terrifying screeches of pain but these are swiftly muffled. There is complete silence. You are awed yet terrified at how something so small and cute could unexpectedly change your life.
+
+>>> You can't do that.
+
+>>> You can't do that.
+
+>>> Bye!

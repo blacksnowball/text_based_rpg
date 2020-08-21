@@ -1,0 +1,18 @@
+INV
+s
+seize cookie
+l
+n
+e
+embrace snowball
+l
+w
+n
+wear RING
+l
+s
+w
+STORM BASTILLE
+l
+INV
+quests

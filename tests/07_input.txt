@@ -1,0 +1,17 @@
+south
+NORTH
+e
+W
+WeSt
+eASt
+norTH
+easT
+WEst
+N
+nORTh
+E
+n
+s
+e
+w
+quit

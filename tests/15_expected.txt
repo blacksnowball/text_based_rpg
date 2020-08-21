@@ -1,0 +1,144 @@
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    E
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the TARDIS.
+There is nothing in this room.
+
+>>> You move to the south, arriving at the Cookieland.
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    E
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the Cookieland.
+The sky, floor, and walls are made of scrumptious cookies - everywhere you are surrounded by cookies. But in the centre of the room slumbers the Cookie Monster and in his right hand lies the universe's most delectable cookie, radiating brilliantly with an irresistible scent. You are swiftly enticed to consume the forbidden treat.
+
+>>> You move to the east, arriving at the Misty Mountains.
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    |
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the Misty Mountains.
+An enormous pack of ferocious wyverns are scattered all across the sides of the mountain range. They gaze intently in your direction thinking about you as their next meal. Your view of the landscape is blocked by their monstrous size but that should be the least of your concerns.
+
+>>> You move to the west, arriving at the TARDIS.
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    E
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the TARDIS.
+There is nothing in this room.
+
+>>> You move to the west, arriving at the Bastille.
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    E
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Bastille.
+From afar, you gaze at a great, sinister fortress before turning your attention to a lavish, royal palace not far from it. You can feel an atmosphere of great tension as people pass by you, murmuring about their discontent with a man named King Louis XVI.
+
+>>> You move to the north, arriving at the Black Gates of Mordor.
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the Black Gates of Mordor.
+An innocuous golden ring clasped by a chain glimmers against the backdrop of an eerie dark sky, dangling precariously on a crack in the impregnable walls of the Black Gates.
+
+>>> You move to the south, arriving at the TARDIS.
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    E
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the TARDIS.
+There is nothing in this room.
+
+>>> You move to the south, arriving at the Cookieland.
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    E
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the Cookieland.
+The sky, floor, and walls are made of scrumptious cookies - everywhere you are surrounded by cookies. But in the centre of the room slumbers the Cookie Monster and in his right hand lies the universe's most delectable cookie, radiating brilliantly with an irresistible scent. You are swiftly enticed to consume the forbidden treat.
+
+>>> You move to the south, arriving at the Shadow Realm.
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Shadow Realm.
+There is nothing in this room.
+
+>>> Bye!

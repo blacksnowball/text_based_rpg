@@ -1,0 +1,20 @@
+King's Quarters > NORTH > Grand Halls
+Grand Halls > SOUTH > King's Quarters
+Grand Hall > NORTH > Forgotten Chambers
+Entrance > NORTH > Foyer
+Foyer > NORTH > Courtyard
+Foyer > EAST > Parlour
+Foyer > SOUTH > Entrance
+Foyer > WEST > Workshop
+Courtyard > SOUTH > Foyer
+Parlour > WEST > Foyer
+Workshop > EAST > Foyer
+Cookieland > NORTH > TARDIS
+TARDIS > NORTH > Black Gates of Mordor
+TARDIS > EAST > Misty Mountains
+TARDIS > SOUTH > Cookieland
+TARDIS > WEST > Bastille
+Black Gates of Mordor > NORTH > Shadow Realm
+Black Gates of Mordor > SOUTH > TARDIS
+Misty Mountains > WEST > TARDIS
+Bastille > EAST > TARDIS

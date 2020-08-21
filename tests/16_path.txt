@@ -1,0 +1,9 @@
+TARDIS > NORTH > Black Gates of Mordor
+TARDIS > EAST > Misty Mountains
+TARDIS > SOUTH > Cookieland
+TARDIS > WEST > Bastille
+Cookieland > NORTH > TARDIS
+Black Gates of Mordor > NORTH > Shadow Realm
+Black Gates of Mordor > SOUTH > TARDIS
+Misty Mountains > WEST > TARDIS
+Bastille > EAST > TARDIS

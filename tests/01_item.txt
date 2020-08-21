@@ -1,0 +1,4 @@
+Choc-Chip Cookie | COOKIE | 45 | 55
+The One Ring | RING | 10000 | -10000
+Psychotic Snowball | SNOWBALL | 444 | 444
+Louis XVI's Head | SEVERED HEAD | 35 | 50

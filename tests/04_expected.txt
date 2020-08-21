@@ -1,0 +1,59 @@
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Black Gates of Mordor.
+An innocuous golden ring clasped by a chain glimmers against the backdrop of an eerie dark sky, dangling precariously on a crack in the impregnable walls of the Black Gates.
+
+>>> You take a deep breath and deftly extract the ring from the crevice. Mesmerised by its alluring beauty, you remove the chain and place the One Ring on your index finger. You feel an overwhelming rush of endless power surging through your mind and body.
+
+>>> Check what? 
+You are an adventurer, with a SKILL of 5 and a WILL of 5.
+You are carrying:
+
+The One Ring
+Grants a bonus of -10000 to SKILL.
+Grants a bonus of -10000 to WILL.
+
+With your items, you have a SKILL level of 0 and a WILL power of 0.
+
+>>> You move to the north, arriving at the Cookieland.
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the Cookieland.
+The sky, floor, and walls are made of scrumptious cookies - everywhere you are surrounded by cookies. But in the centre of the room slumbers the Cookie Monster and in his right hand lies the universe's most delectable cookie, radiating brilliantly with an irresistible scent. You are swiftly enticed to consume the forbidden treat.
+
+>>> You muster the courage to move forward but your first step accidentally crushes some cookies on the ground. The Cookie Monster, having been startled by the sound, abruptly wakes with bulging eyes and screams "COOKIE!" before falling back to sleep. Stricken with fear, your swiftly step back.
+
+>>> #00: Choc-Chip Cookie     - SEIZE the cookie from the slumbering Cookie Monster.
+#01: The One Ring         - WEAR the prized ring of the Dark Lord, Sauron. [COMPLETED]
+
+>>> Check what? 
+You are an adventurer, with a SKILL of 5 and a WILL of 5.
+You are carrying:
+
+The One Ring
+Grants a bonus of -10000 to SKILL.
+Grants a bonus of -10000 to WILL.
+
+With your items, you have a SKILL level of 0 and a WILL power of 0.
+
+>>> Bye!

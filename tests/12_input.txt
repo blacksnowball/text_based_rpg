@@ -1,0 +1,18 @@
+quests
+n
+wear ring
+l
+s
+e
+embrace snowball
+l
+w
+w
+storm bastille
+l
+e
+s
+seize cookie
+l
+quests
+quit

@@ -1,0 +1,276 @@
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    E
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the TARDIS.
+There is nothing in this room.
+
+>>> You can't do that.
+
+>>> You can't do that.
+
+>>> You can't do that.
+
+>>> You can't do that.
+
+>>> You can't do that.
+
+>>> You can't do that.
+
+>>> You can't do that.
+
+>>> You can't do that.
+
+>>> You can't do that.
+
+>>> You can't do that.
+
+>>> You can't do that.
+
+>>> You can't do that.
+
+>>> You can't do that.
+
+>>> You can't do that.
+
+>>> You can't do that.
+
+>>> You can't do that.
+
+>>> You can't do that.
+
+>>> HELP       - Shows some available commands.
+LOOK or L  - Lets you see the map/room again.
+QUESTS     - Lists all your active and completed quests.
+INV        - Lists all the items in your inventory.
+CHECK      - Lets you see an item (or yourself) in more detail.
+NORTH or N - Moves you to the north.
+SOUTH or S - Moves you to the south.
+EAST or E  - Moves you to the east.
+WEST or W  - Moves you to the west.
+QUIT       - Ends the adventure.
+
+>>> 
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    E
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the TARDIS.
+There is nothing in this room.
+
+>>> 
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    E
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the TARDIS.
+There is nothing in this room.
+
+>>> 
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    E
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the TARDIS.
+There is nothing in this room.
+
+>>> 
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    E
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the TARDIS.
+There is nothing in this room.
+
+>>> You are carrying:
+Nothing.
+
+>>> You are carrying:
+Nothing.
+
+>>> Check what? 
+You are an adventurer, with a SKILL of 5 and a WILL of 5.
+You are carrying:
+
+Nothing.
+
+With your items, you have a SKILL level of 5 and a WILL power of 5.
+
+>>> Check what? 
+You are an adventurer, with a SKILL of 5 and a WILL of 5.
+You are carrying:
+
+Nothing.
+
+With your items, you have a SKILL level of 5 and a WILL power of 5.
+
+>>> You move to the north, arriving at the Black Gates of Mordor.
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the Black Gates of Mordor.
+An innocuous golden ring clasped by a chain glimmers against the backdrop of an eerie dark sky, dangling precariously on a crack in the impregnable walls of the Black Gates.
+
+>>> You move to the south, arriving at the TARDIS.
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    E
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the TARDIS.
+There is nothing in this room.
+
+>>> You move to the east, arriving at the Misty Mountains.
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    |
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Misty Mountains.
+An enormous pack of ferocious wyverns are scattered all across the sides of the mountain range. They gaze intently in your direction thinking about you as their next meal. Your view of the landscape is blocked by their monstrous size but that should be the least of your concerns.
+
+>>> You move to the west, arriving at the TARDIS.
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    E
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the TARDIS.
+There is nothing in this room.
+
+>>> You move to the north, arriving at the Black Gates of Mordor.
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the Black Gates of Mordor.
+An innocuous golden ring clasped by a chain glimmers against the backdrop of an eerie dark sky, dangling precariously on a crack in the impregnable walls of the Black Gates.
+
+>>> You move to the south, arriving at the TARDIS.
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    E
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the TARDIS.
+There is nothing in this room.
+
+>>> You move to the east, arriving at the Misty Mountains.
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    |
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Misty Mountains.
+An enormous pack of ferocious wyverns are scattered all across the sides of the mountain range. They gaze intently in your direction thinking about you as their next meal. Your view of the landscape is blocked by their monstrous size but that should be the least of your concerns.
+
+>>> You move to the west, arriving at the TARDIS.
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    E
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the TARDIS.
+There is nothing in this room.
+
+>>> #00: Choc-Chip Cookie     - SEIZE the cookie from the slumbering Cookie Monster.
+#01: The One Ring         - WEAR the prized ring of the Dark Lord, Sauron.
+#02: Psychotic Snowball   - EMBRACE a psychotic snowball to aid you in your adventure.
+#03: Louis XVI's Head     - STORM the Bastille and begin a revolution.
+
+>>> Bye!

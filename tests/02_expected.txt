@@ -1,0 +1,96 @@
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    E
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the TARDIS.
+There is nothing in this room.
+
+>>> Check what? 
+You are an adventurer, with a SKILL of 5 and a WILL of 5.
+You are carrying:
+
+Nothing.
+
+With your items, you have a SKILL level of 5 and a WILL power of 5.
+
+>>> You move to the west, arriving at the Bastille.
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    E
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Bastille.
+From afar, you gaze at a great, sinister fortress before turning your attention to a lavish, royal palace not far from it. You can feel an atmosphere of great tension as people pass by you, murmuring about their discontent with a man named King Louis XVI.
+
+>>> #00: Choc-Chip Cookie     - SEIZE the cookie from the slumbering Cookie Monster.
+#01: The One Ring         - WEAR the prized ring of the Dark Lord, Sauron.
+#02: Psychotic Snowball   - EMBRACE a psychotic snowball to aid you in your adventure.
+#03: Louis XVI's Head     - STORM the Bastille and begin a revolution.
+
+>>> 
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    E
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Bastille.
+From afar, you gaze at a great, sinister fortress before turning your attention to a lavish, royal palace not far from it. You can feel an atmosphere of great tension as people pass by you, murmuring about their discontent with a man named King Louis XVI.
+
+>>> You are carrying:
+Nothing.
+
+>>> You attempt to rally the nearby people to your cause but they all seem to be distracted by baguettes, croissants, and complaining about taxation and fiscal policy.
+
+>>> 
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    E
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Bastille.
+From afar, you gaze at a great, sinister fortress before turning your attention to a lavish, royal palace not far from it. You can feel an atmosphere of great tension as people pass by you, murmuring about their discontent with a man named King Louis XVI.
+
+>>> You are carrying:
+Nothing.
+
+>>> #00: Choc-Chip Cookie     - SEIZE the cookie from the slumbering Cookie Monster.
+#01: The One Ring         - WEAR the prized ring of the Dark Lord, Sauron.
+#02: Psychotic Snowball   - EMBRACE a psychotic snowball to aid you in your adventure.
+#03: Louis XVI's Head     - STORM the Bastille and begin a revolution.
+
+>>> Check what? 
+You are an adventurer, with a SKILL of 5 and a WILL of 5.
+You are carrying:
+
+Nothing.
+
+With your items, you have a SKILL level of 5 and a WILL power of 5.
+
+>>> Bye!

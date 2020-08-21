@@ -1,0 +1,173 @@
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    E
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the TARDIS.
+There is nothing in this room.
+
+>>> You move to the west, arriving at the Bastille.
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    E
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Bastille.
+From afar, you gaze at a great, sinister fortress before turning your attention to a lavish, royal palace not far from it. You can feel an atmosphere of great tension as people pass by you, murmuring about their discontent with a man named King Louis XVI.
+
+>>> Your eloquence as an orator has persuaded the nearby people to aid you in storming the Bastille. Together with the mob, you free the prisoners and execute the tyrannical monarch. Your actions are heralded by the people as being revolutionary and the beginning of a new enlightenment, creating liberation from the oppression of King Louis VI's rule. Oddly, you decide to carry the monarch's head around with you as memorabilia.
+
+>>> Check what? 
+You are an adventurer, with a SKILL of 5 and a WILL of 5.
+You are carrying:
+
+Louis XVI's Head
+Grants a bonus of -35 to SKILL.
+Grants a bonus of -50 to WILL.
+
+With your items, you have a SKILL level of 0 and a WILL power of 0.
+
+>>> You move to the east, arriving at the TARDIS.
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    E
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the TARDIS.
+There is nothing in this room.
+
+>>> You move to the north, arriving at the Black Gates of Mordor.
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the Black Gates of Mordor.
+An innocuous golden ring clasped by a chain glimmers against the backdrop of an eerie dark sky, dangling precariously on a crack in the impregnable walls of the Black Gates.
+
+>>> You take a deep breath and deftly extract the ring from the crevice. Mesmerised by its alluring beauty, you remove the chain and place the One Ring on your index finger. You feel an overwhelming rush of endless power surging through your mind and body.
+
+>>> You move to the south, arriving at the TARDIS.
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    E
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the TARDIS.
+There is nothing in this room.
+
+>>> You move to the east, arriving at the Misty Mountains.
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    |
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Misty Mountains.
+An enormous pack of ferocious wyverns are scattered all across the sides of the mountain range. They gaze intently in your direction thinking about you as their next meal. Your view of the landscape is blocked by their monstrous size but that should be the least of your concerns.
+
+>>> You embrace the snowball and soon the ground becomes to rumble and shake uncontrollably. From the peak of the mountains, a series of avalanches are unleashed, travelling with great speed and power before crushing the wyverns mercilessly. They unleash terrifying screeches of pain but these are swiftly muffled. There is complete silence. You are awed yet terrified at how something so small and cute could unexpectedly change your life.
+
+>>> You move to the west, arriving at the TARDIS.
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    E
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the TARDIS.
+There is nothing in this room.
+
+>>> You move to the south, arriving at the Cookieland.
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Cookieland.
+The sky, floor, and walls are made of scrumptious cookies - everywhere you are surrounded by cookies. But in the centre of the room slumbers the Cookie Monster and in his right hand lies the universe's most delectable cookie, radiating brilliantly with an irresistible scent. You are swiftly enticed to consume the forbidden treat.
+
+>>> You deftly seize the cookie but before you can consume the forbidden treat you are interrupted by the Cookie Monster, who having realised the situation, enters a frenzy of rage and begins to gobble up the room. You pack the cookie away to eat at a later time but are continuously empowered by its wafting scent.
+
+>>> Check what? 
+You are an adventurer, with a SKILL of 5 and a WILL of 5.
+You are carrying:
+
+Louis XVI's Head
+Grants a bonus of -35 to SKILL.
+Grants a bonus of -50 to WILL.
+
+The One Ring
+Grants a bonus of -10000 to SKILL.
+Grants a bonus of -10000 to WILL.
+
+Psychotic Snowball
+Grants a bonus of -444 to SKILL.
+Grants a bonus of -444 to WILL.
+
+Choc-Chip Cookie
+Grants a bonus of -45 to SKILL.
+Grants a bonus of -55 to WILL.
+
+With your items, you have a SKILL level of 0 and a WILL power of 0.
+
+>>> #00: Choc-Chip Cookie     - SEIZE the cookie from the slumbering Cookie Monster. [COMPLETED]
+#01: The One Ring         - WEAR the prized ring of the Dark Lord, Sauron. [COMPLETED]
+#02: Psychotic Snowball   - EMBRACE a psychotic snowball to aid you in your adventure. [COMPLETED]
+#03: Louis XVI's Head     - STORM the Bastille and begin a revolution. [COMPLETED]
+
+=== All quests complete! Congratulations! ===

@@ -1,0 +1,77 @@
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    E
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the TARDIS.
+There is nothing in this room.
+
+>>> You move to the south, arriving at the Cookieland.
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Cookieland.
+The sky, floor, and walls are made of scrumptious cookies - everywhere you are surrounded by cookies. But in the centre of the room slumbers the Cookie Monster and in his right hand lies the universe's most delectable cookie, radiating brilliantly with an irresistible scent. You are swiftly enticed to consume the forbidden treat.
+
+>>> You deftly seize the cookie but before you can consume the forbidden treat you are interrupted by the Cookie Monster, who having realised the situation, enters a frenzy of rage and begins to gobble up the room. You pack the cookie away to eat at a later time but are continuously empowered by its wafting scent.
+
+>>> You have already completed this quest.
+
+>>> You move to the north, arriving at the TARDIS.
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    E
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the TARDIS.
+There is nothing in this room.
+
+>>> You can't do that.
+
+>>> You move to the east, arriving at the Misty Mountains.
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    |
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Misty Mountains.
+An enormous pack of ferocious wyverns are scattered all across the sides of the mountain range. They gaze intently in your direction thinking about you as their next meal. Your view of the landscape is blocked by their monstrous size but that should be the least of your concerns.
+
+>>> You can't do that.
+
+>>> #00: Choc-Chip Cookie     - SEIZE the cookie from the slumbering Cookie Monster. [COMPLETED]
+#01: The One Ring         - WEAR the prized ring of the Dark Lord, Sauron.
+#02: Psychotic Snowball   - EMBRACE a psychotic snowball to aid you in your adventure.
+#03: Louis XVI's Head     - STORM the Bastille and begin a revolution.
+
+>>> Bye!

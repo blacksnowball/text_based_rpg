@@ -1,0 +1,14 @@
+s 
+s
+ seize cookie 
+seize  cookie
+seize cookie 
+  north  
+n
+ east
+e
+ embrace snowball 
+embrace snowball
+ quit
+  quit
+QUIT
